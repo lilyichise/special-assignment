@@ -1,0 +1,8 @@
+Col1,Col2,Result
+,,No
+A,1.0,Yes
+A,2.0,No
+B,3.0,Yes
+C,4.0,Yes
+C,5.0,No
+C,6.0,No
