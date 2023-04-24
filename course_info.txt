@@ -1,0 +1,13 @@
+Introduction to Python Programming
+John Smith
+Spring 2023
+Alice Smith
+85
+Bob Johnson
+70
+Charlie Brown
+55
+David Lee
+90
+Emily Davis
+77
